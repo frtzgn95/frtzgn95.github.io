@@ -1,0 +1,2 @@
+color: #4C80EF
+font: Tillana
